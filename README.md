@@ -1,5 +1,5 @@
 <h1 align="left">Hello There, I'm Mario</h1>
-<h3 align="left">A swabian data scientist vom germany</h3>
+<h3 align="left">A swabian data scientist from germany</h3>
 
 - 📫 How to reach me **mario.pfob@t-online.de**
 - 📄 Know about my experiences [https://mario-pfob.de/](https://mario-pfob.de/)
